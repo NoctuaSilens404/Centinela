@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Centinela</string>
+    <string name="app_tagline">La sabiduría es tu mejor defensa</string>
+    <string name="security_audit_title">Auditoría de Seguridad</string>
+    <string name="action_recheck">Volver a auditar</string>
+    <string name="action_fix">Corregir</string>
+</resources>
